@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Forty</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Forty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>詹姆斯·哈登</title>
+      <link>/post/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/creating-a-new-theme/</guid>
+      <description>基本资料： 詹姆斯·哈登（James Harden），1989年8月26日出生于美国加利福尼亚州洛杉矶（ Los Angeles, California），美国职业篮球运动员，司职后卫，效力于NBA休斯顿火箭队。 詹姆斯·哈登于2009年通过选秀进入NBA，先后效力于雷霆队和火箭队，新秀赛季入选最佳新秀第二阵容，2011-12赛季当选最佳第六人，3次入选最佳阵容第一阵容，5次入选全明星阵容。 詹姆斯·哈登于2012年随美国男篮获伦敦奥运会金牌，2014年随美国队获西班牙篮球世界杯冠军。
+高中时期 2003年夏，詹姆斯·哈登进入位于洛杉矶西南部郊区的莱克伍德阿迪西亚高中读书。 哈登身体发育得较晚，进入高中时只有1米85，还不会扣篮，只能苦练基本功和底角三分球。高一时，哈登场均可得13.2分。 等到哈登高二读到一半，他的身高又长了几英寸，各项技能逐渐被开发出来。哈登高二场均可得18.8分、7.7个篮板和3.5次助攻。 高三、高四时，哈登作为绝对主力，带领校队分别取得取得33胜1负和33胜2负的战绩，连续两年拿下了加州高中联赛的冠军。哈登入选了全美高中全明星阵容。 哈登高四临近毕业时，NCAA众多豪门开始登门造访，试图说服哈登加盟，包括哈登的偶像卡波诺曾效力过的加州大学洛杉矶分校，但哈登却出人意料地选择了亚利桑那州立大学，唯一原因是哈登的高中教练斯科特·佩拉成为了亚利桑那州大的助教。
+大学时期 大一赛季，詹姆斯·哈登场均贡献17.8分以及赛区最高的73次抢断，帮助亚利桑那州大拿到了21胜13负的战绩。哈登还登上了《体育画报》的封面。 大学时期 大学时期 大二赛季，哈登场均可得20.1分5.6个篮板4.2次助攻，命中率达到了50%。在1995年之后，只有5名大学球员能有这种全能数据，其中包括韦德和布兰顿·罗伊。此外，这一赛季哈登共270次走上了罚球线，平均每场将获得7.6次罚球机会。亚利桑那州大打出了25胜10负的战绩，一举压倒了死敌亚利桑那大学的21胜14负，成功进入NCAA锦标赛。虽然第二轮便被锡拉丘兹大学淘汰出局，但当赛季哈登还是拿到了太平洋十区年度最佳球员。
+The Home Page The home page, or landing page, is the first page that many visitors to a site see. It is the index.html file in the root directory of the web site. Since Hugo writes files to the public/ directory, our home page is public/index.html.
+Site Configuration File When Hugo runs, it looks for a configuration file that contains settings that override default values for the entire site.</description>
+    </item>
+    
+    <item>
+      <title>斯蒂芬·库里</title>
+      <link>/post/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/migrate-from-jekyll/</guid>
+      <description>顾客都会看到好吃的客户客户端客户端还是看好款式的好看 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.
+Create your Hugo configuration file Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too. Refer to the Hugo configuration documentation for details.
+Set your configuration publish folder to _site The default is for Jekyll to publish to _site and for Hugo to publish to public.</description>
+    </item>
+    
+    <item>
+      <title>拉塞尔·维斯布鲁克</title>
+      <link>/post/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/goisforlovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>郎佐·鲍尔</title>
+      <link>/post/hugoisforlovers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+  </channel>
+</rss>
